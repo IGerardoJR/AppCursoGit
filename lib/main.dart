@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.red.shade700),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'IsaiasApp'),
+      home: const MyHomePage( title: 'IsaiasApp'),
     );
   }
 }
@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Haz presionado el boton esta cantidad de veces:',
+              'Me gustan el tocino:',
             ),
             Text(
               '$_counter',

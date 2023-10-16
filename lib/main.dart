@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
         useMaterial3: true,
       ),
-      home: const MyHomePage( title: 'IsaiasApp'),
+      home: const MyHomePage( title: 'Ya empieza con Github'),
 
     );
   }

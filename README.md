@@ -1,4 +1,7 @@
 # holamundo
+Proyecto para el curso de git y github
+
+cambios hechos desde Github
 
 A new Flutter project.
 

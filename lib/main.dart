@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'rama App Bar'),
+      home: const MyHomePage(title: 'Mi super aplicacion'),
     );
   }
 }
@@ -34,7 +34,6 @@ class MyHomePage extends StatefulWidget {
   // always marked "final".
 
   final String title;
-  final String texto = "Marmando estuvo aqui";
   @override
   State<MyHomePage> createState() => _MyHomePageState();
 }
@@ -49,7 +48,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // so that the display can reflect the updated values. If we changed
       // _counter without calling setState(), then the build method would not be
       // called again, and so nothing would appear to happen.
-      _counter++;
+      _counter += 0;
     });
   }
 

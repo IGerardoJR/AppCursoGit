@@ -48,7 +48,9 @@ class _MyHomePageState extends State<MyHomePage> {
       // so that the display can reflect the updated values. If we changed
       // _counter without calling setState(), then the build method would not be
       // called again, and so nothing would.
-      _counter += 10;
+
+      // Este comentario deberia desaparecer con el git stash y el contador deberia devolverse a 10
+      _counter += 50;
     });
   }
 

@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 * Readme created by IGerardoJR.
 * Para todo tipo de usuario que le guste mobile.
+* Este commit no esta completo, le falta:
